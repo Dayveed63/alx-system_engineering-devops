@@ -1,1 +1,1 @@
-Readme file
+ a script that displays a confused smiley
